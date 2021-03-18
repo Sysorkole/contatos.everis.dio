@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    
+    <string name="menu_1">Configuações</string>
+    <string name="menu_2">Sobre</string>
+    
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+</resources>
